@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WiFi chat</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="name">"Choose your profile name."</string>
+
+    <string name="users">"Scan for local users."</string>
+
+    <string name="chat">"Join a chat room someone else has set up."</string>
+
+    <string name="contact">"If you have any questions or feedback then feel free to email us at contact@ajapps.co.uk."</string>
+
+    <string name="Preferences">Preferences</string>
+
+</resources>
